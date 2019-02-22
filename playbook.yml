@@ -10,6 +10,7 @@
       - telnet
       - docker
       - azure-cli
+      - sqllite
     homebrew_cask_apps:
       - google-chrome
       - atom
