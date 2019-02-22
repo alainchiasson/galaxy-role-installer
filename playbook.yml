@@ -8,11 +8,11 @@
       - asciinema
       - mas
     mas_installed_apps:
-      - { id: 1346203938 name: "OmniFocus (3.2.1)" }
-      - { id: 803453959  name: "Slack (3.3.7)" }
-      - { id: 419330170  name: "Moom (3.2.14)" }
-      - { id: 488764545  name: "The Clock (4.0.5)" }
-      - { id: 926036361  name: "LastPass (4.3.0)" }
+      - { id: 1346203938, name: "OmniFocus (3.2.1)" }
+      - { id: 803453959,  name: "Slack (3.3.7)" }
+      - { id: 419330170,  name: "Moom (3.2.14)" }
+      - { id: 488764545,  name: "The Clock (4.0.5)" }
+      - { id: 926036361,  name: "LastPass (4.3.0)" }
   vars_prompt:
     - name: "mas_email"
       prompt: "Enter Apple ID"
