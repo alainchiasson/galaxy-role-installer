@@ -3,4 +3,3 @@
   tasks:
     - name: Install required roles form galaxy
       command: ansible-galaxy install -r requirements.yml
-- include_playbook: playbook.yml
