@@ -1,2 +1,5 @@
-#
+# HomeBrew Installer
 - src: geerlingguy.homebrew
+
+# Mac App Store installer
+- src: geerlingguy.mas
