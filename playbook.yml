@@ -4,7 +4,6 @@
     homebrew_installed_packages:
       - asciinema
       - mas
-      - google-chrome
       - atom
       - iperf3
       - ipmitool
