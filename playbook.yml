@@ -14,6 +14,7 @@
       - google-chrome
       - atom
       - iterm2
+      - tunnelblick
     mas_installed_apps:
       - { id: 1346203938, name: "OmniFocus (3.2.1)" }
       - { id: 803453959,  name: "Slack (3.3.7)" }
