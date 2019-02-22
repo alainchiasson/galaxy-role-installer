@@ -3,3 +3,8 @@
   tasks:
     - name: Install required roles form galaxy
       command: ansible-galaxy install -r requirements.yml
+  vars:
+    homebrew_installed_packages:
+      - asciinema
+  roles:
+    - geerlingguy.homebrew
