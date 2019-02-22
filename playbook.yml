@@ -4,7 +4,6 @@
     homebrew_installed_packages:
       - asciinema
       - mas
-      - atom
       - iperf3
       - ipmitool
       - jq
